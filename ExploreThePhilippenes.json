@@ -1,0 +1,152 @@
+[
+  {
+    "islandName": "Palawan",
+    "title": "Nacpan Beach",
+    "description": "Nacpan Beach is one of the most beautiful stretches of sand in the Philippines. With four kilometres of soft cream-coloured sand, swaying coconut palms.",
+    "length": "4km",
+    "sand": "Soft cream-coulerd",
+    "region": "North Palawan",
+    "popularity": "Very_Popular",
+    "keywords": "Soft Sand, Beach Hostel, Palawan, Nacpan"
+  },
+  {
+    "islandName": "Palawan",
+    "title": "ACBM Beach",
+    "description": "ACBM Beach is located at Barangay San Pedro, Puerto Princesa, Palawan, Philippines, near this place are: Morato Beach Resort (131 meter).",
+    "length": "2km",
+    "sand": "Grainy Sand",
+    "region": "North Palawan",
+    "popularity": "Not_Popular",
+    "keywords": "Grainy Sand, Puerto Princesa, Palawan, Barangay"
+  },
+  {
+    "islandName": "Palawan",
+    "title": "Duli Beach",
+    "description": "This 2 km long beach is picture perfect; it has clear blue water, wide white sandy beach, many palm trees, jungle backed and has rocky parts on the side.",
+    "length": "2km",
+    "sand": "Soft cream-coulerd",
+    "region": "North Palawan",
+    "popularity": "Popular",
+    "keywords": "Soft Sand, Beach Hostel, Palawan, Duli"
+  },
+  {
+    "islandName": "Palawan",
+    "title": "Mariposa Beach",
+    "description": "Headed to Palawan? Be sure to check out Mariposa Beach located in El Nido. There are several amenities at Mariposa Beach including street parking.",
+    "length": "3km",
+    "sand": "Soft cream-coulerd",
+    "region": "North Palawan",
+    "popularity": "Popular",
+    "keywords": "Soft Sand, Beach Hostel, Palawan, Mariposa"
+  },
+  {
+    "islandName": "Siquijor",
+    "title": "Pier Beach",
+    "description": "The finest sand in Siquijor is at the pier! We stayed overnight at this unnamed beach, simply dubbed as the Siquijor Port Beach or Pier Beach.",
+    "length": "1km",
+    "sand": "Soft cream-coulerd",
+    "region": "South Siquijor",
+    "popularity": "Not_Popular",
+    "keywords": "Soft Sand, Beach Hostel, Siquijor, Pier Beach"
+  },
+  {
+    "islandName": "Siquijor",
+    "title": "Bacong Beach",
+    "description": "Bacong Beach Sibay Island, Caluya, Antique A pristine island with clear blue waters and white sand beaches. Behind this beautiful islands are the unique stories waiting to be told.",
+    "length": "3km",
+    "sand": "Soft cream-coulerd",
+    "region": "South Siquijor",
+    "popularity": "Not_Popular",
+    "keywords": "Soft Sand, Beach Hostel, Siquijor, Bacong"
+  },
+  {
+    "islandName": "Siquijor",
+    "title": "Inccel Beach",
+    "description": "Its an ite beach. Not much else",
+    "length": "1km",
+    "sand": "Grainy Sand",
+    "region": "South Siquijor",
+    "popularity": "Not_Popular",
+    "keywords": "Soft Sand, Beach Hostel, Siquijor, Mariposa"
+  },
+  {
+    "islandName": "Siquijor",
+    "title": "Paliton Beach",
+    "description": "Paliton Beach is known for its pristine waters, white fine sand beach, and tall coconut trees – which all contribute to complete summer feels.",
+    "length": "3km",
+    "sand": "Soft cream-coulerd",
+    "region": "South Siquijor",
+    "popularity": "Very_Popular",
+    "keywords": "Soft Sand, Beach Hostel, Siquijor, Paliton"
+  },
+  {
+    "islandName": "Bohol",
+    "title": "Norberts Beach",
+    "description": "Norbert's Beach is an accommodation in Anda. Norbert's Beach is situated west of Ipo, close to Blue Star Dive And Resort.",
+    "length": "3km",
+    "sand": "White Sand",
+    "region": "East Bohol",
+    "popularity": "Popular",
+    "keywords": "Soft Sand, Beach Hostel, Bohol, Norberts"
+  },
+  {
+    "islandName": "Bohol",
+    "title": "Gumersindo Beach",
+    "description": "Gumersindo Beach is an accommodation in Bohol. Gumersindo Beach is situated nearby to Buenavista, west of Taguinting River.",
+    "length": "3km",
+    "sand": "Grainy Sand",
+    "region": "North Bohol",
+    "popularity": "Not_Popular",
+    "keywords": "Grainy Sand, Beach Hostel, Bohol, Gumersindo"
+  },
+  {
+    "islandName": "Bohol",
+    "title": "Mangyo Beach",
+    "description": "Mangyo Beach is an accommodation in Bohol. Mangyo Beach is situated nearby to Canogon, close to Bonbon Elementary School.",
+    "length": "3km",
+    "sand": "Grainy Sand",
+    "region": "North Bohol",
+    "popularity": "Not_Popular",
+    "keywords": "Grainy Sand, Beach Hostel, Bohol, Mangyo"
+  },
+  {
+    "islandName": "Boracay",
+    "title": "White Beach",
+    "description": "White Beach is a long beach with fine white sand, making it a fantastic spot to relax, unwind and enjoy a day trip.",
+    "length": "5km",
+    "sand": "White Sand",
+    "region": "Central Boracay",
+    "popularity": "Very_Popular",
+    "keywords": "White Sand, Beach Hostel, Boracay, relax"
+  },
+  {
+    "islandName": "Boracay",
+    "title": "Bulabog Beach",
+    "description": "This is the 2.5km long water sports beach of Boracay, and is located on the east side of the island. From November to April.",
+    "length": "2.5km",
+    "sand": "White Sand",
+    "region": "Central Boracay",
+    "popularity": "Very_Popular",
+    "keywords": "White Sand, Beach Hostel, Boracay, Bulabog"
+  },
+  {
+    "islandName": "Boracay",
+    "title": "Station 1",
+    "description": "White Beach, Station 1 is at its widest, and it is considered to be to the upscale section of Boracay.",
+    "length": "3km",
+    "sand": "White Sand",
+    "region": "Central Boracay",
+    "popularity": "Very_Popular",
+    "keywords": "White Sand, Beach Hostel, Boracay, Station 1"
+  },
+  {
+    "islandName": "Boracay",
+    "title": "Cagban Beach",
+    "description": "The beach has several amenities including boat ramps, dogs allowed, and free parking. You can have a great time at the beach doing activities like fishing, jet skiing, and swimming.",
+    "length": "3km",
+    "sand": "White Sand",
+    "region": "Central Boracay",
+    "popularity": "Very_Popular",
+    "keywords": "White Sand, Beach Hostel, Boracay, Cagban"
+  }
+]
